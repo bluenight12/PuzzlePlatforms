@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Unreal Projects/PuzzlePlatforms/.vscode": true,
+		"D:/Unreal Projects/PuzzlePlatforms/Content": true,
+		"D:/Unreal Projects/PuzzlePlatforms/Intermediate": true
+	}
+}
